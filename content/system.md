@@ -27,6 +27,7 @@ System monitoring tools frequently employ a **plugin architecture**, making it e
   {{% tool system Datadog     datadog "https://www.datadoghq.com/"      ""          2010                "SaaS" %}}
   {{% tool system "Dataloop.io" dataloop "https://www.dataloop.io/"      ""          2014                "SaaS" %}}
   {{% tool system Ganglia     ganglia "http://ganglia.info/"            "Open Source"    2001     "On Prem" %}}
+   {{% tool system Happy Apps "https://www.happyapps.io/"      ""          2015                "SaaS" %}}
   {{% tool system Icinga      icinga "https://www.icinga.org/"          "Open Source, Forked from Nagios" 2009       "On Prem" %}}
   {{% tool system LogicMonitor   logicmonitor "http://www.logicmonitor.com/" ""          2009     "SaaS" %}}
   {{% tool system Munin     munin "http://munin-monitoring.org/"           "Open Source"    2006     "On Prem" %}}
